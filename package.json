@@ -1,0 +1,16 @@
+{
+  "name": "practicagitfinal",
+  "version": "1.0.0",
+  "description": "Proyecto para la práctica de Entorno de desarrollo y control de versiones.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
