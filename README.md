@@ -12,3 +12,5 @@ Funciones para calcular precios con IVA y descuentos.
 ## Instalación
 ```bash
 npm install
+
+- `conIvaReducido(precio)`: suma un IVA del 10%.
